@@ -1,0 +1,9 @@
+* quri
+
+Yet another URI library for Common Lisp.
+
+|---------+-----------------------------------------------------------------------|
+| source  | file:https://github.com/fukamachi/quri/archive/refs/tags/0.7.0.tar.gz |
+| version | 0.7.0                                                                 |
+| systems | quri                                                                  |
+|---------+-----------------------------------------------------------------------|
